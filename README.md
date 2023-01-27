@@ -1,4 +1,4 @@
-# Topology induced Orientation Localization  
+# Topology Induced Orientation Localization  
 Author: Siyuan Song  
 Creating Date: 2023 Jan.25
 ## About
